@@ -363,7 +363,7 @@ a:hover {
     z-index: 2;
 }
 .recit {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 @media (min-width: 768px) {
@@ -745,7 +745,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
-    
+
 }
 
 .portfolio-row {
