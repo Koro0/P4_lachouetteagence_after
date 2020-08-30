@@ -624,7 +624,7 @@ a[data-lightbox]:hover img {
 }
 
 .next-lightbox {
-    padding: 0.375rem 0.5rem 0.063rem 0.813;
+    padding: 0.375rem 0.5rem 0.063rem 0.813rem;
     right: 1.563rem;
 }
 
